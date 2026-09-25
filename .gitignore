@@ -9,4 +9,5 @@
 .cxx
 local.properties
 /app/build
-/app/src/main/assets/build_env.txt
+/app/src/main/assets/build_info.txt
+/_plugin_src/
